@@ -1,0 +1,17 @@
+{
+  "name": "execl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "request": "^2.72.0",
+    "write-file-atomic": "^1.1.4",
+    "write-file-stdout": "0.0.2"
+  }
+}
